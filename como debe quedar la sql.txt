@@ -1,0 +1,8 @@
+DATABASE_URL=postgresql://collazos:944259@pipelin_collazos:5432/collazos?sslmode=disable
+
+
+
+
+APP_HOST=0.0.0.0
+APP_PORT=8000
+POSTGRES_PARTITION_RANGE_SIZE=1000000
